@@ -4,12 +4,9 @@ Maker Media GmbH
 
 ***
 
-# Konservendose als Radon-Sensor
+# Balkonsolar optimieren
 
-In der vorhergehenden Make haben wir Radon kennengelernt und Methoden zur Detektion 
-entwickelt. Um jedoch die Konzentration zu messen und damit eine quantifizierbare Aussage 
-zu erhalten, bedarf es eines feineren Messverfahrens. Die vorgestellte Ionenkammer lässt sich 
-mit Maker-Mitteln recht einfach verwirklichen.
+Das Balkonkraftwerk ist installiert und produziert fleißig. Um den Strom möglichst gut zu nutzen und dem Versorger nichts zu schenken, müssen aber die Verbräuche sowie Grund- und Spitzenlasten bekannt sein. Diese Daten liefert der hier vorgestellte ESP32 basierte Energiemonitor ohne Eingriffe in die Elektrik übersichtlich über sein Display, eine Website und downloadbaren Datenreihen. 
 
 ![Picture](./Aufmacher.jpg) 
 
