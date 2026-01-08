@@ -12,7 +12,7 @@ Das Balkonkraftwerk ist installiert und produziert fleißig. Um den Strom mögli
 
 
 
-Im Ordner `cad` finden Sie die 3D-Druckteile, im Ordner `src` den Arduino Code und beispielhafte Messergebnisse in Tabellenform (Open Office).
+Im Ordner `src` finden sie den Arduino Code für den Sender und Empfänger. Hier gibt es auch eine Readme.md in dem nochmal eine kurze Funktionsbeschreibung und Liste der nötigen Bibliotheken steht.
 
 
 
